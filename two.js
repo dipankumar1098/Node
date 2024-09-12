@@ -1,2 +1,3 @@
-import a from "./one"
-console.log(a)
+/* import a from "./one.js"; */
+let a = require("./one")
+console.log(a) 

@@ -1,2 +1,3 @@
 let a=5;
-export default a;
+/*  export default a; */
+module.exports = a;
